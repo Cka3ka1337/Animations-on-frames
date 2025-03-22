@@ -1,0 +1,62 @@
+{
+    "loli": {
+        "iters": 3,
+        "scale": 0.5,
+        "fps": 30,
+        "update_pos": true
+    },
+    "bunny": {
+        "iters": 6,
+        "scale": 0.5,
+        "fps": 20,
+        "update_pos": false
+    },
+    "chika_dance": {
+        "iters": 3,
+        "scale": 0.5,
+        "fps": 22,
+        "update_pos": false
+    },
+    "chika_google": {
+        "iters": 3,
+        "scale": 0.5,
+        "fps": 13,
+        "update_pos": false
+    },
+    "girl_dance": {
+        "iters": 9,
+        "scale": 0.5,
+        "fps": 13,
+        "update_pos": false
+    },
+    "hz_dance": {
+        "iters": 3,
+        "scale": 1.0,
+        "fps": 40,
+        "update_pos": false
+    },
+    "konata_dance": {
+        "iters": 3,
+        "scale": 0.7,
+        "fps": 16,
+        "update_pos": true
+    },
+    "purple_girl_dance": {
+        "iters": 3,
+        "scale": 0.4,
+        "fps": 12,
+        "update_pos": false
+    },
+    "rgb_girl": {
+        "iters": 3,
+        "scale": 0.5,
+        "fps": 18,
+        "update_pos": false
+    },
+    "girl": {
+        "iters": 9,
+        "scale": 1,
+        "fps": 12,
+        "update_pos": false
+    }
+}
