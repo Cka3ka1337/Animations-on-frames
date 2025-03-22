@@ -9,5 +9,15 @@
 * `pygame==2.6.1`;
 * `pywin32`;
 
+## **How to using**
+   Распакуйте **содержимое** архива `animations.zip` в одну папку с `main.py` и `config.py`.
+   Выйдет следующее:
+      - main.py
+      - config.json
+      - loli_god (folder)
+      - konata_dance (folder)
+      - girl (folder)
+      - ... (folders)
+
  ## **Other**
  Завершить работу программы можно по нажатию клавиши PAUSE.
