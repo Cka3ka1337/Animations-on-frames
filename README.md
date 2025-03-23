@@ -1,4 +1,4 @@
-# Animations-on-frames
+# Animations-on-application-window
 ![Loli XD](https://i.imgur.com/4ftwGdj.png "Ссылка на Imgur")
 
 ## **Description**
